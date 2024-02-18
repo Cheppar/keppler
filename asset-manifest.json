@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/keppler/static/css/main.30cf976e.chunk.css",
+    "main.js": "/keppler/static/js/main.6824fc5e.chunk.js",
+    "main.js.map": "/keppler/static/js/main.6824fc5e.chunk.js.map",
+    "runtime-main.js": "/keppler/static/js/runtime-main.d7ccd149.js",
+    "runtime-main.js.map": "/keppler/static/js/runtime-main.d7ccd149.js.map",
+    "static/css/2.a94b31b9.chunk.css": "/keppler/static/css/2.a94b31b9.chunk.css",
+    "static/js/2.c9568678.chunk.js": "/keppler/static/js/2.c9568678.chunk.js",
+    "static/js/2.c9568678.chunk.js.map": "/keppler/static/js/2.c9568678.chunk.js.map",
+    "static/js/3.c144a23f.chunk.js": "/keppler/static/js/3.c144a23f.chunk.js",
+    "static/js/3.c144a23f.chunk.js.map": "/keppler/static/js/3.c144a23f.chunk.js.map",
+    "index.html": "/keppler/index.html",
+    "precache-manifest.e1a8275ccc86ff052c6718336228a323.js": "/keppler/precache-manifest.e1a8275ccc86ff052c6718336228a323.js",
+    "service-worker.js": "/keppler/service-worker.js",
+    "static/css/2.a94b31b9.chunk.css.map": "/keppler/static/css/2.a94b31b9.chunk.css.map",
+    "static/css/main.30cf976e.chunk.css.map": "/keppler/static/css/main.30cf976e.chunk.css.map",
+    "static/js/2.c9568678.chunk.js.LICENSE.txt": "/keppler/static/js/2.c9568678.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/keppler/static/media/SEGA.82e09f78.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7ccd149.js",
+    "static/css/2.a94b31b9.chunk.css",
+    "static/js/2.c9568678.chunk.js",
+    "static/css/main.30cf976e.chunk.css",
+    "static/js/main.6824fc5e.chunk.js"
+  ]
+}
